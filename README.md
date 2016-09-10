@@ -1,4 +1,12 @@
 
+
+This version have a lot of new features that AES algothrim, Sha256  hash
+Adv for large data more than ble 4.o protocol
+
+it's used for CYCU ice college graduate project by me 
+
+
+===================================
 Android BluetoothLeGatt Sample
 ===================================
 
